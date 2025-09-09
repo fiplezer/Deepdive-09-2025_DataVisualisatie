@@ -5,12 +5,11 @@ using UnityEngine.Events;
 
 public class Button : MonoBehaviour
 {
-    public UnityEvent onPress;
+    private List<Pillar> pillars = new();
     private Animator animator;
     // Start is called before the first frame update
     void Start()
     {
-        onPress.Invoke();
         animator = GetComponent<Animator>();
     }
 
@@ -23,6 +22,14 @@ public class Button : MonoBehaviour
     public void PressButton() //Plays the button click animation
     {
         animator.SetTrigger("ClickButton");
+        foreach (Pillar pillar in pillars) {
+            pillar.SetHeight();
+        }
+    }
+
+    public void AddPillarScript(Pillar pillar)
+    {
+        pillars.Add(pillar);
     }
 
     void OnTriggerEnter(Collider other)

@@ -56,13 +56,12 @@ public class Pillar : MonoBehaviour
         }
     }
 
-    public void SetHeight(float targetHeight = 0)
+    public void SetHeight()
     {
         if (targetHeight == 0)
         {
             targetHeight = height;
         }
-        this.targetHeight = targetHeight;
         isTransforming = true;
     }
 }
