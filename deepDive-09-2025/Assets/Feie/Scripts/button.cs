@@ -1,13 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
-public class button : MonoBehaviour
+public class Button : MonoBehaviour
 {
+    public UnityEvent onPress;
     private Animator animator;
     // Start is called before the first frame update
     void Start()
     {
+        onPress.Invoke();
         animator = GetComponent<Animator>();
     }
 
@@ -17,9 +20,13 @@ public class button : MonoBehaviour
 
     }
 
-    void PressButton() //Plays the button click animation
+    public void PressButton() //Plays the button click animation
     {
         animator.SetTrigger("ClickButton");
     }
 
+    void OnTriggerEnter(Collider other)
+    {
+        PressButton();
+    }
 }
