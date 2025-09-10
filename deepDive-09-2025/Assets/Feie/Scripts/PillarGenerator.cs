@@ -15,6 +15,17 @@ public class PillarGenerator : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
+
+    public void PlacePilars(VariableManager.Root root)
+    {
         placedPillars = new List<GameObject>();
         int childCount = transform.childCount;
         for (int i = 0; i < childCount; i++)
@@ -26,18 +37,31 @@ public class PillarGenerator : MonoBehaviour
                 Vector3 newPosition = new Vector3(position.x, -0.11f, position.z);
                 GameObject newPillar = Instantiate(pillar, newPosition, Quaternion.identity, transform);
                 Pillar newPillarScript = newPillar.GetComponent<Pillar>();
-                newPillar.GetComponent<Pillar>().height = Random.Range(0f, 50f); // Give height value
-                
+
+
+                for (int j = 0; j < childCount; j++)
+                {
+
+                    newPillarScript.SetIndex(i);
+                    newPillarScript.SetWeight(root.data[i].bodyweight_kg_all_m_1_T1_M);
+                    newPillarScript.SetHeight(root.data[i].bodylength_cm_all_m_1_T1_M - 130);
+                    if (root.data[i].gender_T1_M == "MALE")
+                    {
+                        newPillarScript.SetGender(true);
+                    }
+                    else
+                    {
+                        newPillarScript.SetGender(false);
+                    }
+                    newPillarScript.SetAge(root.data[i].age_1a_q_1 / 12);
+                    break;
+
+                }
+
                 placedPillars.Add(newPillar);
                 buttonScript.AddPillarScript(newPillarScript);
                 child.SetActive(false);
             }
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 }
