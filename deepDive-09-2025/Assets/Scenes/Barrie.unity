@@ -1697,6 +1697,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6137534267485536274, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 6137534267485536274, guid: 9d07c8665eb95384283c366cd616014d,
+        type: 3}
       propertyPath: m_Name
       value: PillarPlacer (2)
       objectReference: {fileID: 0}
@@ -1708,17 +1714,17 @@ PrefabInstance:
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 14.547
+      value: 13.73
       objectReference: {fileID: 0}
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.14
+      value: 1.88
       objectReference: {fileID: 0}
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -11.656
+      value: -10.81
       objectReference: {fileID: 0}
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
@@ -4931,6 +4937,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6137534267485536274, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 6137534267485536274, guid: 9d07c8665eb95384283c366cd616014d,
+        type: 3}
       propertyPath: m_Name
       value: PillarPlacer
       objectReference: {fileID: 0}
@@ -4942,12 +4954,12 @@ PrefabInstance:
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15.156
+      value: 14.379
       objectReference: {fileID: 0}
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.14
+      value: 1.878
       objectReference: {fileID: 0}
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
@@ -5018,6 +5030,12 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6137534267485536274, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 6137534267485536274, guid: 9d07c8665eb95384283c366cd616014d,
+        type: 3}
       propertyPath: m_Name
       value: PillarPlacer (1)
       objectReference: {fileID: 0}
@@ -5029,17 +5047,17 @@ PrefabInstance:
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 15.156
+      value: 13.329
       objectReference: {fileID: 0}
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.14
+      value: 1.94
       objectReference: {fileID: 0}
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -12.097
+      value: -11.43
       objectReference: {fileID: 0}
     - target: {fileID: 6137534267485536275, guid: 9d07c8665eb95384283c366cd616014d,
         type: 3}

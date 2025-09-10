@@ -23,7 +23,7 @@ public class Button : MonoBehaviour
     {
         animator.SetTrigger("ClickButton");
         foreach (Pillar pillar in pillars) {
-            pillar.SetHeight();
+            //pillar.SetHeight();
         }
         Debug.Log("ingedrukt");
     }
