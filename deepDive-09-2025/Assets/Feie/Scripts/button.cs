@@ -25,6 +25,7 @@ public class Button : MonoBehaviour
         foreach (Pillar pillar in pillars) {
             pillar.SetHeight();
         }
+        Debug.Log("ingedrukt");
     }
 
     public void AddPillarScript(Pillar pillar)
