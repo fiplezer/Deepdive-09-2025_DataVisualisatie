@@ -8,6 +8,7 @@ TagManager:
   - Right Hand
   - PillarPlacer
   - PillarManager
+  - VariableManager
   layers:
   - Default
   - TransparentFX

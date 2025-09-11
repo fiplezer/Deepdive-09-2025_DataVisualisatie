@@ -6,11 +6,12 @@ using UnityEngine.Analytics;
 
 public class Pillar : MonoBehaviour
 {
-    public int index;
+    public int zipCode;
     public float weight;
     public float height;
     public bool isMale;
     public int age;
+    public float kcal;
 
     private bool isTransforming;
     private Mesh mesh;
@@ -31,7 +32,6 @@ public class Pillar : MonoBehaviour
     {
         if (isTransforming)
         {
-            Debug.Log("ITS TRANSFORMINGG");
             bool reached = true;
             for (int i = 0; i < currentVertices.Length; i++)
             {
@@ -73,9 +73,9 @@ public class Pillar : MonoBehaviour
         // SetAge(veriables.GetAge());
 
     }
-    public void SetIndex(int newIndex)
+    public void SetZip(int newZip)
     {
-        index = newIndex;
+        zipCode = newZip;
     }
     public void SetWeight(float newWeight)
     {
@@ -120,5 +120,10 @@ public class Pillar : MonoBehaviour
         }
         isMale = newIsMale;
 
+    }
+
+    public void SetKcal(float newKcal)
+    {
+        kcal = newKcal;
     }
 }

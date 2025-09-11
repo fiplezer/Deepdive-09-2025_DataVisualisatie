@@ -1,711 +1,803 @@
 {
   "data": [
     {
-      "index": 0,
       "age_1a_q_1": 552,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7912,
       "bodylength_cm_all_m_1_T1_M": 181,
-      "bodyweight_kg_all_m_1_T1_M": 113
+      "bodyweight_kg_all_m_1_T1_M": 113,
+      "kcal_intake_adu_c_1_T1_QF": 2468.321
     },
     {
-      "index": 1,
       "age_1a_q_1": 381,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 6541,
       "bodylength_cm_all_m_1_T1_M": 161,
-      "bodyweight_kg_all_m_1_T1_M": 77
+      "bodyweight_kg_all_m_1_T1_M": 77,
+      "kcal_intake_adu_c_1_T1_QF": 2115.756
     },
     {
-      "index": 2,
       "age_1a_q_1": 456,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9635,
       "bodylength_cm_all_m_1_T1_M": 185,
-      "bodyweight_kg_all_m_1_T1_M": 75
+      "bodyweight_kg_all_m_1_T1_M": 75,
+      "kcal_intake_adu_c_1_T1_QF": 2315.46
     },
     {
-      "index": 3,
       "age_1a_q_1": 289,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8939,
       "bodylength_cm_all_m_1_T1_M": 186,
-      "bodyweight_kg_all_m_1_T1_M": 77
+      "bodyweight_kg_all_m_1_T1_M": 77,
+      "kcal_intake_adu_c_1_T1_QF": 1404.884
     },
     {
-      "index": 4,
       "age_1a_q_1": 604,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8487,
       "bodylength_cm_all_m_1_T1_M": 196,
-      "bodyweight_kg_all_m_1_T1_M": 97
+      "bodyweight_kg_all_m_1_T1_M": 97,
+      "kcal_intake_adu_c_1_T1_QF": 3193.755
     },
     {
-      "index": 5,
       "age_1a_q_1": 356,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8565,
       "bodylength_cm_all_m_1_T1_M": 182.5,
-      "bodyweight_kg_all_m_1_T1_M": 63
+      "bodyweight_kg_all_m_1_T1_M": 63,
+      "kcal_intake_adu_c_1_T1_QF": 2493.958
     },
     {
-      "index": 6,
       "age_1a_q_1": 379,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9204,
       "bodylength_cm_all_m_1_T1_M": 160,
-      "bodyweight_kg_all_m_1_T1_M": 51.5
+      "bodyweight_kg_all_m_1_T1_M": 51.5,
+      "kcal_intake_adu_c_1_T1_QF": 1851.99
     },
     {
-      "index": 7,
       "age_1a_q_1": 891,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9746,
       "bodylength_cm_all_m_1_T1_M": 161,
-      "bodyweight_kg_all_m_1_T1_M": 110
+      "bodyweight_kg_all_m_1_T1_M": 110,
+      "kcal_intake_adu_c_1_T1_QF": 1222.727
     },
     {
-      "index": 8,
       "age_1a_q_1": 647,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9408,
       "bodylength_cm_all_m_1_T1_M": 181,
-      "bodyweight_kg_all_m_1_T1_M": 91
+      "bodyweight_kg_all_m_1_T1_M": 91,
+      "kcal_intake_adu_c_1_T1_QF": 1756.8
     },
     {
-      "index": 9,
       "age_1a_q_1": 716,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7958,
       "bodylength_cm_all_m_1_T1_M": 170,
-      "bodyweight_kg_all_m_1_T1_M": 68.5
+      "bodyweight_kg_all_m_1_T1_M": 68.5,
+      "kcal_intake_adu_c_1_T1_QF": 1573.161
     },
     {
-      "index": 10,
       "age_1a_q_1": 663,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7887,
       "bodylength_cm_all_m_1_T1_M": 174,
-      "bodyweight_kg_all_m_1_T1_M": 91
+      "bodyweight_kg_all_m_1_T1_M": 91,
+      "kcal_intake_adu_c_1_T1_QF": 2124.769
     },
     {
-      "index": 11,
       "age_1a_q_1": 705,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 7812,
       "bodylength_cm_all_m_1_T1_M": 187,
-      "bodyweight_kg_all_m_1_T1_M": 98
+      "bodyweight_kg_all_m_1_T1_M": 98,
+      "kcal_intake_adu_c_1_T1_QF": 1748.053
     },
     {
-      "index": 12,
       "age_1a_q_1": 463,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8861,
       "bodylength_cm_all_m_1_T1_M": 183,
-      "bodyweight_kg_all_m_1_T1_M": 67
+      "bodyweight_kg_all_m_1_T1_M": 67,
+      "kcal_intake_adu_c_1_T1_QF": 3573.452
     },
     {
-      "index": 13,
       "age_1a_q_1": 591,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9641,
       "bodylength_cm_all_m_1_T1_M": 184.5,
-      "bodyweight_kg_all_m_1_T1_M": 86.5
+      "bodyweight_kg_all_m_1_T1_M": 86.5,
+      "kcal_intake_adu_c_1_T1_QF": 2163.486
     },
     {
-      "index": 14,
       "age_1a_q_1": 475,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9665,
       "bodylength_cm_all_m_1_T1_M": 170,
-      "bodyweight_kg_all_m_1_T1_M": 92
+      "bodyweight_kg_all_m_1_T1_M": 92,
+      "kcal_intake_adu_c_1_T1_QF": 48.493
     },
     {
-      "index": 15,
       "age_1a_q_1": 570,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9646,
       "bodylength_cm_all_m_1_T1_M": 174.7,
-      "bodyweight_kg_all_m_1_T1_M": 101.5
+      "bodyweight_kg_all_m_1_T1_M": 101.5,
+      "kcal_intake_adu_c_1_T1_QF": 2141.52
     },
     {
-      "index": 16,
       "age_1a_q_1": 400,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8862,
       "bodylength_cm_all_m_1_T1_M": 175,
-      "bodyweight_kg_all_m_1_T1_M": 63
+      "bodyweight_kg_all_m_1_T1_M": 63,
+      "kcal_intake_adu_c_1_T1_QF": 2054.211
     },
     {
-      "index": 17,
       "age_1a_q_1": 365,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 1104,
       "bodylength_cm_all_m_1_T1_M": 190,
-      "bodyweight_kg_all_m_1_T1_M": 73
+      "bodyweight_kg_all_m_1_T1_M": 73,
+      "kcal_intake_adu_c_1_T1_QF": 5867.67
     },
     {
-      "index": 18,
       "age_1a_q_1": 469,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8895,
       "bodylength_cm_all_m_1_T1_M": 185.5,
-      "bodyweight_kg_all_m_1_T1_M": 98
+      "bodyweight_kg_all_m_1_T1_M": 98,
+      "kcal_intake_adu_c_1_T1_QF": 245.127
     },
     {
-      "index": 19,
       "age_1a_q_1": 534,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9204,
       "bodylength_cm_all_m_1_T1_M": 173,
-      "bodyweight_kg_all_m_1_T1_M": 64
+      "bodyweight_kg_all_m_1_T1_M": 64,
+      "kcal_intake_adu_c_1_T1_QF": 121.376
     },
     {
-      "index": 20,
       "age_1a_q_1": 550,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9223,
       "bodylength_cm_all_m_1_T1_M": 192,
-      "bodyweight_kg_all_m_1_T1_M": 119
+      "bodyweight_kg_all_m_1_T1_M": 119,
+      "kcal_intake_adu_c_1_T1_QF": 3039.584
     },
     {
-      "index": 21,
       "age_1a_q_1": 713,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8917,
       "bodylength_cm_all_m_1_T1_M": 175.5,
-      "bodyweight_kg_all_m_1_T1_M": 82
+      "bodyweight_kg_all_m_1_T1_M": 82,
+      "kcal_intake_adu_c_1_T1_QF": 2423.313
     },
     {
-      "index": 22,
       "age_1a_q_1": 510,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8411,
       "bodylength_cm_all_m_1_T1_M": 173,
-      "bodyweight_kg_all_m_1_T1_M": 77
+      "bodyweight_kg_all_m_1_T1_M": 77,
+      "kcal_intake_adu_c_1_T1_QF": 1922.799
     },
     {
-      "index": 23,
       "age_1a_q_1": 480,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8629,
       "bodylength_cm_all_m_1_T1_M": 171.5,
-      "bodyweight_kg_all_m_1_T1_M": 60
+      "bodyweight_kg_all_m_1_T1_M": 60,
+      "kcal_intake_adu_c_1_T1_QF": 1246.015
     },
     {
-      "index": 24,
       "age_1a_q_1": 381,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 7826,
       "bodylength_cm_all_m_1_T1_M": 179,
-      "bodyweight_kg_all_m_1_T1_M": 72
+      "bodyweight_kg_all_m_1_T1_M": 72,
+      "kcal_intake_adu_c_1_T1_QF": 1826.282
     },
     {
-      "index": 25,
       "age_1a_q_1": 585,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8921,
       "bodylength_cm_all_m_1_T1_M": 178,
-      "bodyweight_kg_all_m_1_T1_M": 68
+      "bodyweight_kg_all_m_1_T1_M": 68,
+      "kcal_intake_adu_c_1_T1_QF": 2099.649
     },
     {
-      "index": 26,
       "age_1a_q_1": 531,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9665,
       "bodylength_cm_all_m_1_T1_M": 180,
-      "bodyweight_kg_all_m_1_T1_M": 78
+      "bodyweight_kg_all_m_1_T1_M": 78,
+      "kcal_intake_adu_c_1_T1_QF": 38.769
     },
     {
-      "index": 27,
       "age_1a_q_1": 435,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9472,
       "bodylength_cm_all_m_1_T1_M": 167.5,
-      "bodyweight_kg_all_m_1_T1_M": 61
+      "bodyweight_kg_all_m_1_T1_M": 61,
+      "kcal_intake_adu_c_1_T1_QF": 741.513
     },
     {
-      "index": 28,
       "age_1a_q_1": 505,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7766,
       "bodylength_cm_all_m_1_T1_M": 167,
-      "bodyweight_kg_all_m_1_T1_M": 56
+      "bodyweight_kg_all_m_1_T1_M": 56,
+      "kcal_intake_adu_c_1_T1_QF": 3074.172
     },
     {
-      "index": 29,
       "age_1a_q_1": 728,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8911,
       "bodylength_cm_all_m_1_T1_M": 173,
-      "bodyweight_kg_all_m_1_T1_M": 79
+      "bodyweight_kg_all_m_1_T1_M": 79,
+      "kcal_intake_adu_c_1_T1_QF": 2018.755
     },
     {
-      "index": 30,
       "age_1a_q_1": 592,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7766,
       "bodylength_cm_all_m_1_T1_M": 159.5,
-      "bodyweight_kg_all_m_1_T1_M": 68
+      "bodyweight_kg_all_m_1_T1_M": 68,
+      "kcal_intake_adu_c_1_T1_QF": 2165.68
     },
     {
-      "index": 31,
       "age_1a_q_1": 565,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8567,
       "bodylength_cm_all_m_1_T1_M": 172,
-      "bodyweight_kg_all_m_1_T1_M": 93
+      "bodyweight_kg_all_m_1_T1_M": 93,
+      "kcal_intake_adu_c_1_T1_QF": 2260.607
     },
     {
-      "index": 32,
       "age_1a_q_1": 577,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9406,
       "bodylength_cm_all_m_1_T1_M": 164,
-      "bodyweight_kg_all_m_1_T1_M": 54
+      "bodyweight_kg_all_m_1_T1_M": 54,
+      "kcal_intake_adu_c_1_T1_QF": 1514.834
     },
     {
-      "index": 33,
       "age_1a_q_1": 541,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8607,
       "bodylength_cm_all_m_1_T1_M": 159,
-      "bodyweight_kg_all_m_1_T1_M": 71
+      "bodyweight_kg_all_m_1_T1_M": 71,
+      "kcal_intake_adu_c_1_T1_QF": 150.122
     },
     {
-      "index": 34,
       "age_1a_q_1": 351,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8391,
       "bodylength_cm_all_m_1_T1_M": 174.5,
-      "bodyweight_kg_all_m_1_T1_M": 73
+      "bodyweight_kg_all_m_1_T1_M": 73,
+      "kcal_intake_adu_c_1_T1_QF": 1513.713
     },
     {
-      "index": 35,
       "age_1a_q_1": 680,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9467,
       "bodylength_cm_all_m_1_T1_M": 176,
-      "bodyweight_kg_all_m_1_T1_M": 98
+      "bodyweight_kg_all_m_1_T1_M": 98,
+      "kcal_intake_adu_c_1_T1_QF": 1567.349
     },
     {
-      "index": 36,
       "age_1a_q_1": 450,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8913,
       "bodylength_cm_all_m_1_T1_M": 179,
-      "bodyweight_kg_all_m_1_T1_M": 89
+      "bodyweight_kg_all_m_1_T1_M": 89,
+      "kcal_intake_adu_c_1_T1_QF": 2342.519
     },
     {
-      "index": 37,
       "age_1a_q_1": 550,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9968,
       "bodylength_cm_all_m_1_T1_M": 169.5,
-      "bodyweight_kg_all_m_1_T1_M": 80
+      "bodyweight_kg_all_m_1_T1_M": 80,
+      "kcal_intake_adu_c_1_T1_QF": 2033.274
     },
     {
-      "index": 38,
       "age_1a_q_1": 579,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7824,
       "bodylength_cm_all_m_1_T1_M": 173.5,
-      "bodyweight_kg_all_m_1_T1_M": 73.5
+      "bodyweight_kg_all_m_1_T1_M": 73.5,
+      "kcal_intake_adu_c_1_T1_QF": 1800.256
     },
     {
-      "index": 39,
       "age_1a_q_1": 494,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9408,
       "bodylength_cm_all_m_1_T1_M": 180,
-      "bodyweight_kg_all_m_1_T1_M": 82
+      "bodyweight_kg_all_m_1_T1_M": 82,
+      "kcal_intake_adu_c_1_T1_QF": 2409.385
     },
     {
-      "index": 40,
       "age_1a_q_1": 404,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9741,
       "bodylength_cm_all_m_1_T1_M": 184,
-      "bodyweight_kg_all_m_1_T1_M": 78
+      "bodyweight_kg_all_m_1_T1_M": 78,
+      "kcal_intake_adu_c_1_T1_QF": 2084.452
     },
     {
-      "index": 41,
       "age_1a_q_1": 571,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7751,
       "bodylength_cm_all_m_1_T1_M": 178.5,
-      "bodyweight_kg_all_m_1_T1_M": 104
+      "bodyweight_kg_all_m_1_T1_M": 104,
+      "kcal_intake_adu_c_1_T1_QF": 1501.828
     },
     {
-      "index": 42,
       "age_1a_q_1": 402,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 7815,
       "bodylength_cm_all_m_1_T1_M": 182,
-      "bodyweight_kg_all_m_1_T1_M": 116
+      "bodyweight_kg_all_m_1_T1_M": 116,
+      "kcal_intake_adu_c_1_T1_QF": 1995.447
     },
     {
-      "index": 43,
       "age_1a_q_1": 236,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9471,
       "bodylength_cm_all_m_1_T1_M": 170.5,
-      "bodyweight_kg_all_m_1_T1_M": 80
+      "bodyweight_kg_all_m_1_T1_M": 80,
+      "kcal_intake_adu_c_1_T1_QF": 798.07
     },
     {
-      "index": 44,
       "age_1a_q_1": 385,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9671,
       "bodylength_cm_all_m_1_T1_M": 180,
-      "bodyweight_kg_all_m_1_T1_M": 94
+      "bodyweight_kg_all_m_1_T1_M": 94,
+      "kcal_intake_adu_c_1_T1_QF": 2448.705
     },
     {
-      "index": 45,
       "age_1a_q_1": 693,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8571,
       "bodylength_cm_all_m_1_T1_M": 172.5,
-      "bodyweight_kg_all_m_1_T1_M": 80
+      "bodyweight_kg_all_m_1_T1_M": 80,
+      "kcal_intake_adu_c_1_T1_QF": 2476.232
     },
     {
-      "index": 46,
       "age_1a_q_1": 553,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9005,
       "bodylength_cm_all_m_1_T1_M": 168,
-      "bodyweight_kg_all_m_1_T1_M": 72
+      "bodyweight_kg_all_m_1_T1_M": 72,
+      "kcal_intake_adu_c_1_T1_QF": 2273.568
     },
     {
-      "index": 47,
       "age_1a_q_1": 618,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 7823,
       "bodylength_cm_all_m_1_T1_M": 178,
-      "bodyweight_kg_all_m_1_T1_M": 88
+      "bodyweight_kg_all_m_1_T1_M": 88,
+      "kcal_intake_adu_c_1_T1_QF": 1847.067
     },
     {
-      "index": 48,
       "age_1a_q_1": 431,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9403,
       "bodylength_cm_all_m_1_T1_M": 196.5,
-      "bodyweight_kg_all_m_1_T1_M": 78
+      "bodyweight_kg_all_m_1_T1_M": 78,
+      "kcal_intake_adu_c_1_T1_QF": 3647.41
     },
     {
-      "index": 49,
       "age_1a_q_1": 531,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9203,
       "bodylength_cm_all_m_1_T1_M": 169,
-      "bodyweight_kg_all_m_1_T1_M": 66
+      "bodyweight_kg_all_m_1_T1_M": 66,
+      "kcal_intake_adu_c_1_T1_QF": 81.148
     },
     {
-      "index": 50,
       "age_1a_q_1": 463,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8607,
       "bodylength_cm_all_m_1_T1_M": 175.5,
-      "bodyweight_kg_all_m_1_T1_M": 78
+      "bodyweight_kg_all_m_1_T1_M": 78,
+      "kcal_intake_adu_c_1_T1_QF": 2049.962
     },
     {
-      "index": 51,
       "age_1a_q_1": 567,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 7941,
       "bodylength_cm_all_m_1_T1_M": 177.5,
-      "bodyweight_kg_all_m_1_T1_M": 96
+      "bodyweight_kg_all_m_1_T1_M": 96,
+      "kcal_intake_adu_c_1_T1_QF": 2015.817
     },
     {
-      "index": 52,
       "age_1a_q_1": 593,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9254,
       "bodylength_cm_all_m_1_T1_M": 153,
-      "bodyweight_kg_all_m_1_T1_M": 79
+      "bodyweight_kg_all_m_1_T1_M": 79,
+      "kcal_intake_adu_c_1_T1_QF": 2516.742
     },
     {
-      "index": 53,
       "age_1a_q_1": 523,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9732,
       "bodylength_cm_all_m_1_T1_M": 183,
-      "bodyweight_kg_all_m_1_T1_M": 84
+      "bodyweight_kg_all_m_1_T1_M": 84,
+      "kcal_intake_adu_c_1_T1_QF": 1326.787
     },
     {
-      "index": 54,
       "age_1a_q_1": 675,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9711,
       "bodylength_cm_all_m_1_T1_M": 168,
-      "bodyweight_kg_all_m_1_T1_M": 57.5
+      "bodyweight_kg_all_m_1_T1_M": 57.5,
+      "kcal_intake_adu_c_1_T1_QF": 1951.246
     },
     {
-      "index": 55,
       "age_1a_q_1": 568,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9203,
       "bodylength_cm_all_m_1_T1_M": 184,
-      "bodyweight_kg_all_m_1_T1_M": 81
+      "bodyweight_kg_all_m_1_T1_M": 81,
+      "kcal_intake_adu_c_1_T1_QF": 64.923
     },
     {
-      "index": 56,
       "age_1a_q_1": 759,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9742,
       "bodylength_cm_all_m_1_T1_M": 166,
-      "bodyweight_kg_all_m_1_T1_M": 53.5
+      "bodyweight_kg_all_m_1_T1_M": 53.5,
+      "kcal_intake_adu_c_1_T1_QF": 1673.64
     },
     {
-      "index": 57,
       "age_1a_q_1": 470,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8721,
       "bodylength_cm_all_m_1_T1_M": 172.5,
-      "bodyweight_kg_all_m_1_T1_M": 81
+      "bodyweight_kg_all_m_1_T1_M": 81,
+      "kcal_intake_adu_c_1_T1_QF": 2133.523
     },
     {
-      "index": 58,
       "age_1a_q_1": 743,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9202,
       "bodylength_cm_all_m_1_T1_M": 167,
-      "bodyweight_kg_all_m_1_T1_M": 77
+      "bodyweight_kg_all_m_1_T1_M": 77,
+      "kcal_intake_adu_c_1_T1_QF": 36.481
     },
     {
-      "index": 59,
       "age_1a_q_1": 427,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8471,
       "bodylength_cm_all_m_1_T1_M": 187,
-      "bodyweight_kg_all_m_1_T1_M": 85
+      "bodyweight_kg_all_m_1_T1_M": 85,
+      "kcal_intake_adu_c_1_T1_QF": 78.771
     },
     {
-      "index": 60,
       "age_1a_q_1": 469,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9249,
       "bodylength_cm_all_m_1_T1_M": 172.5,
-      "bodyweight_kg_all_m_1_T1_M": 82.5
+      "bodyweight_kg_all_m_1_T1_M": 82.5,
+      "kcal_intake_adu_c_1_T1_QF": 1412.665
     },
     {
-      "index": 61,
       "age_1a_q_1": 304,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9771,
       "bodylength_cm_all_m_1_T1_M": 170,
-      "bodyweight_kg_all_m_1_T1_M": 61
+      "bodyweight_kg_all_m_1_T1_M": 61,
+      "kcal_intake_adu_c_1_T1_QF": 2232.49
     },
     {
-      "index": 62,
       "age_1a_q_1": 541,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9012,
       "bodylength_cm_all_m_1_T1_M": 201,
-      "bodyweight_kg_all_m_1_T1_M": 89
+      "bodyweight_kg_all_m_1_T1_M": 89,
+      "kcal_intake_adu_c_1_T1_QF": 2002.584
     },
     {
-      "index": 63,
       "age_1a_q_1": 335,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9211,
       "bodylength_cm_all_m_1_T1_M": 178,
-      "bodyweight_kg_all_m_1_T1_M": 71
+      "bodyweight_kg_all_m_1_T1_M": 71,
+      "kcal_intake_adu_c_1_T1_QF": 2820.807
     },
     {
-      "index": 64,
       "age_1a_q_1": 576,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8607,
       "bodylength_cm_all_m_1_T1_M": 189,
-      "bodyweight_kg_all_m_1_T1_M": 100
+      "bodyweight_kg_all_m_1_T1_M": 100,
+      "kcal_intake_adu_c_1_T1_QF": 105.753
     },
     {
-      "index": 65,
       "age_1a_q_1": 702,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8433,
       "bodylength_cm_all_m_1_T1_M": 177.5,
-      "bodyweight_kg_all_m_1_T1_M": 85
+      "bodyweight_kg_all_m_1_T1_M": 85,
+      "kcal_intake_adu_c_1_T1_QF": 2674.68
     },
     {
-      "index": 66,
       "age_1a_q_1": 472,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 7885,
       "bodylength_cm_all_m_1_T1_M": 187.5,
-      "bodyweight_kg_all_m_1_T1_M": 101
+      "bodyweight_kg_all_m_1_T1_M": 101,
+      "kcal_intake_adu_c_1_T1_QF": 1419.384
     },
     {
-      "index": 67,
       "age_1a_q_1": 458,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8926,
       "bodylength_cm_all_m_1_T1_M": 165,
-      "bodyweight_kg_all_m_1_T1_M": 63.5
+      "bodyweight_kg_all_m_1_T1_M": 63.5,
+      "kcal_intake_adu_c_1_T1_QF": 1959.058
     },
     {
-      "index": 68,
       "age_1a_q_1": 231,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9105,
       "bodylength_cm_all_m_1_T1_M": 156,
-      "bodyweight_kg_all_m_1_T1_M": 66
+      "bodyweight_kg_all_m_1_T1_M": 66,
+      "kcal_intake_adu_c_1_T1_QF": 1820.622
     },
     {
-      "index": 69,
       "age_1a_q_1": 609,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9984,
       "bodylength_cm_all_m_1_T1_M": 165,
-      "bodyweight_kg_all_m_1_T1_M": 86
+      "bodyweight_kg_all_m_1_T1_M": 86,
+      "kcal_intake_adu_c_1_T1_QF": 140.483
     },
     {
-      "index": 70,
       "age_1a_q_1": 745,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8932,
       "bodylength_cm_all_m_1_T1_M": 170.5,
-      "bodyweight_kg_all_m_1_T1_M": 80
+      "bodyweight_kg_all_m_1_T1_M": 80,
+      "kcal_intake_adu_c_1_T1_QF": 1453.813
     },
     {
-      "index": 71,
       "age_1a_q_1": 604,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9405,
       "bodylength_cm_all_m_1_T1_M": 175,
-      "bodyweight_kg_all_m_1_T1_M": 91
+      "bodyweight_kg_all_m_1_T1_M": 91,
+      "kcal_intake_adu_c_1_T1_QF": 1841.848
     },
     {
-      "index": 72,
       "age_1a_q_1": 537,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9403,
       "bodylength_cm_all_m_1_T1_M": 168.5,
-      "bodyweight_kg_all_m_1_T1_M": 63
+      "bodyweight_kg_all_m_1_T1_M": 63,
+      "kcal_intake_adu_c_1_T1_QF": 1852.106
     },
     {
-      "index": 73,
       "age_1a_q_1": 500,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9611,
       "bodylength_cm_all_m_1_T1_M": 170.5,
-      "bodyweight_kg_all_m_1_T1_M": 65
+      "bodyweight_kg_all_m_1_T1_M": 65,
+      "kcal_intake_adu_c_1_T1_QF": 2365.985
     },
     {
-      "index": 74,
       "age_1a_q_1": 573,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9421,
       "bodylength_cm_all_m_1_T1_M": 172,
-      "bodyweight_kg_all_m_1_T1_M": 63
+      "bodyweight_kg_all_m_1_T1_M": 63,
+      "kcal_intake_adu_c_1_T1_QF": 1622.855
     },
     {
-      "index": 75,
       "age_1a_q_1": 490,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8939,
       "bodylength_cm_all_m_1_T1_M": 163.5,
-      "bodyweight_kg_all_m_1_T1_M": 58
+      "bodyweight_kg_all_m_1_T1_M": 58,
+      "kcal_intake_adu_c_1_T1_QF": 1837.333
     },
     {
-      "index": 76,
       "age_1a_q_1": 757,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9244,
       "bodylength_cm_all_m_1_T1_M": 186,
-      "bodyweight_kg_all_m_1_T1_M": 98
+      "bodyweight_kg_all_m_1_T1_M": 98,
+      "kcal_intake_adu_c_1_T1_QF": 2466.968
     },
     {
-      "index": 77,
       "age_1a_q_1": 431,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9977,
       "bodylength_cm_all_m_1_T1_M": 175.5,
-      "bodyweight_kg_all_m_1_T1_M": 62
+      "bodyweight_kg_all_m_1_T1_M": 62,
+      "kcal_intake_adu_c_1_T1_QF": 1974.191
     },
     {
-      "index": 78,
       "age_1a_q_1": 486,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9665,
       "bodylength_cm_all_m_1_T1_M": 165,
-      "bodyweight_kg_all_m_1_T1_M": 69
+      "bodyweight_kg_all_m_1_T1_M": 69,
+      "kcal_intake_adu_c_1_T1_QF": 58.247
     },
     {
-      "index": 79,
       "age_1a_q_1": 763,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8561,
       "bodylength_cm_all_m_1_T1_M": 171,
-      "bodyweight_kg_all_m_1_T1_M": 70.5
+      "bodyweight_kg_all_m_1_T1_M": 70.5,
+      "kcal_intake_adu_c_1_T1_QF": 2653.29
     },
     {
-      "index": 80,
       "age_1a_q_1": 391,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9725,
       "bodylength_cm_all_m_1_T1_M": 157,
-      "bodyweight_kg_all_m_1_T1_M": 46
+      "bodyweight_kg_all_m_1_T1_M": 46,
+      "kcal_intake_adu_c_1_T1_QF": 1685.948
     },
     {
-      "index": 81,
       "age_1a_q_1": 300,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9715,
       "bodylength_cm_all_m_1_T1_M": 172.5,
-      "bodyweight_kg_all_m_1_T1_M": 78
+      "bodyweight_kg_all_m_1_T1_M": 78,
+      "kcal_intake_adu_c_1_T1_QF": 2879.532
     },
     {
-      "index": 82,
       "age_1a_q_1": 463,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7822,
       "bodylength_cm_all_m_1_T1_M": 176.5,
-      "bodyweight_kg_all_m_1_T1_M": 108.5
+      "bodyweight_kg_all_m_1_T1_M": 108.5,
+      "kcal_intake_adu_c_1_T1_QF": 1447.297
     },
     {
-      "index": 83,
       "age_1a_q_1": 467,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7908,
       "bodylength_cm_all_m_1_T1_M": 180,
-      "bodyweight_kg_all_m_1_T1_M": 70.5
+      "bodyweight_kg_all_m_1_T1_M": 70.5,
+      "kcal_intake_adu_c_1_T1_QF": 2948.886
     },
     {
-      "index": 84,
       "age_1a_q_1": 583,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 7885,
       "bodylength_cm_all_m_1_T1_M": 160,
-      "bodyweight_kg_all_m_1_T1_M": 78
+      "bodyweight_kg_all_m_1_T1_M": 78,
+      "kcal_intake_adu_c_1_T1_QF": 1516.017
     },
     {
-      "index": 85,
       "age_1a_q_1": 306,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9351,
       "bodylength_cm_all_m_1_T1_M": 182,
-      "bodyweight_kg_all_m_1_T1_M": 70
+      "bodyweight_kg_all_m_1_T1_M": 70,
+      "kcal_intake_adu_c_1_T1_QF": 2282.318
     },
     {
-      "index": 86,
       "age_1a_q_1": 401,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9421,
       "bodylength_cm_all_m_1_T1_M": 181,
-      "bodyweight_kg_all_m_1_T1_M": 68
+      "bodyweight_kg_all_m_1_T1_M": 68,
+      "kcal_intake_adu_c_1_T1_QF": 3104.832
     },
     {
-      "index": 87,
       "age_1a_q_1": 471,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 7916,
       "bodylength_cm_all_m_1_T1_M": 191.5,
-      "bodyweight_kg_all_m_1_T1_M": 122
+      "bodyweight_kg_all_m_1_T1_M": 122,
+      "kcal_intake_adu_c_1_T1_QF": 1672.935
     },
     {
-      "index": 88,
       "age_1a_q_1": 776,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9301,
       "bodylength_cm_all_m_1_T1_M": 182,
-      "bodyweight_kg_all_m_1_T1_M": 88.5
+      "bodyweight_kg_all_m_1_T1_M": 88.5,
+      "kcal_intake_adu_c_1_T1_QF": 2222.711
     },
     {
-      "index": 89,
       "age_1a_q_1": 807,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9721,
       "bodylength_cm_all_m_1_T1_M": 171,
-      "bodyweight_kg_all_m_1_T1_M": 113
+      "bodyweight_kg_all_m_1_T1_M": 113,
+      "kcal_intake_adu_c_1_T1_QF": 1525.817
     },
     {
-      "index": 90,
       "age_1a_q_1": 931,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8471,
       "bodylength_cm_all_m_1_T1_M": 186,
-      "bodyweight_kg_all_m_1_T1_M": 85
+      "bodyweight_kg_all_m_1_T1_M": 85,
+      "kcal_intake_adu_c_1_T1_QF": 1401.848
     },
     {
-      "index": 91,
       "age_1a_q_1": 784,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8932,
       "bodylength_cm_all_m_1_T1_M": 153,
-      "bodyweight_kg_all_m_1_T1_M": 78
+      "bodyweight_kg_all_m_1_T1_M": 78,
+      "kcal_intake_adu_c_1_T1_QF": 1673.904
     },
     {
-      "index": 92,
       "age_1a_q_1": 555,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9902,
       "bodylength_cm_all_m_1_T1_M": 194,
-      "bodyweight_kg_all_m_1_T1_M": 107
+      "bodyweight_kg_all_m_1_T1_M": 107,
+      "kcal_intake_adu_c_1_T1_QF": 1925.4
     },
     {
-      "index": 93,
       "age_1a_q_1": 581,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9678,
       "bodylength_cm_all_m_1_T1_M": 166,
-      "bodyweight_kg_all_m_1_T1_M": 74
+      "bodyweight_kg_all_m_1_T1_M": 74,
+      "kcal_intake_adu_c_1_T1_QF": 2123.122
     },
     {
-      "index": 94,
       "age_1a_q_1": 568,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 3893,
       "bodylength_cm_all_m_1_T1_M": 186,
-      "bodyweight_kg_all_m_1_T1_M": 90
+      "bodyweight_kg_all_m_1_T1_M": 90,
+      "kcal_intake_adu_c_1_T1_QF": 2211.7
     },
     {
-      "index": 95,
       "age_1a_q_1": 502,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8607,
       "bodylength_cm_all_m_1_T1_M": 181,
-      "bodyweight_kg_all_m_1_T1_M": 94
+      "bodyweight_kg_all_m_1_T1_M": 94,
+      "kcal_intake_adu_c_1_T1_QF": 86.052
     },
     {
-      "index": 96,
       "age_1a_q_1": 729,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 9501,
       "bodylength_cm_all_m_1_T1_M": 166,
-      "bodyweight_kg_all_m_1_T1_M": 79
+      "bodyweight_kg_all_m_1_T1_M": 79,
+      "kcal_intake_adu_c_1_T1_QF": 1092.41
     },
     {
-      "index": 97,
       "age_1a_q_1": 774,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 9541,
       "bodylength_cm_all_m_1_T1_M": 174,
-      "bodyweight_kg_all_m_1_T1_M": 71
+      "bodyweight_kg_all_m_1_T1_M": 71,
+      "kcal_intake_adu_c_1_T1_QF": 1994.341
     },
     {
-      "index": 98,
       "age_1a_q_1": 505,
       "gender_T1_M": "MALE",
+      "zip_code_T1_M": 8881,
       "bodylength_cm_all_m_1_T1_M": 181,
-      "bodyweight_kg_all_m_1_T1_M": 69
+      "bodyweight_kg_all_m_1_T1_M": 69,
+      "kcal_intake_adu_c_1_T1_QF": 464.617
     },
     {
-      "index": 99,
       "age_1a_q_1": 508,
       "gender_T1_M": "FEMALE",
+      "zip_code_T1_M": 8748,
       "bodylength_cm_all_m_1_T1_M": 165.5,
-      "bodyweight_kg_all_m_1_T1_M": 92.5
-    },
-    {
-      "index": 100,
-      "age_1a_q_1": 510,
-      "gender_T1_M": "MALE",
-      "bodylength_cm_all_m_1_T1_M": 170.5,
-      "bodyweight_kg_all_m_1_T1_M": 93
+      "bodyweight_kg_all_m_1_T1_M": 92.5,
+      "kcal_intake_adu_c_1_T1_QF": 2277.362
     }
-  ]
-}
+]}
