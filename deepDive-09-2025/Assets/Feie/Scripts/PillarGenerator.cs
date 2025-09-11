@@ -24,7 +24,7 @@ public class PillarGenerator : MonoBehaviour
 
     }
 
-    public void PlacePilars(VariableManager.Root root)
+    public void PlacePilars(VariableManagerScript.Root root)
     {
         placedPillars = new List<GameObject>();
         int childCount = transform.childCount;
@@ -33,7 +33,7 @@ public class PillarGenerator : MonoBehaviour
             GameObject child = transform.GetChild(i).gameObject;
             if (child.tag == "PillarPlacer")
             {
-                VariableManager.VeriableData data = root.data[i];
+                VariableManagerScript.VeriableData data = root.data[i];
                 CreatePilar(child, (int)data.zip_code_T1_M, (float)data.bodyweight_kg_all_m_1_T1_M, (float)data.bodylength_cm_all_m_1_T1_M, data.gender_T1_M, (int)data.age_1a_q_1, (float)data.kcal_intake_adu_c_1_T1_QF);
             }
         }

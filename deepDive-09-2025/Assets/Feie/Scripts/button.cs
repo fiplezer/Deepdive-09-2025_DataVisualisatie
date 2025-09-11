@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class Button : MonoBehaviour
+public class Button : VariableManagerScript
 {
 
     [SerializeField]
@@ -14,13 +14,13 @@ public class Button : MonoBehaviour
     private List<Pillar> pillars = new();
     private Animator animator;
     private PillarGenerator pillarGenerator;
-    private VariableManager variableManager;
+    private VariableManagerScript variableManager;
     // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
         pillarGenerator = GameObject.FindGameObjectWithTag("PillarManager").GetComponent<PillarGenerator>();
-        variableManager = GameObject.FindGameObjectWithTag("VariableManager").GetComponent<VariableManager>();
+        variableManager = GameObject.FindGameObjectWithTag("VariableManager").GetComponent<VariableManagerScript>();
     }
 
     // Update is called once per frame
@@ -32,6 +32,7 @@ public class Button : MonoBehaviour
     public void PressButton() //Plays the button click animation
     {
         animator.SetTrigger("ClickButton");
+        OnButtonClick();
         unityEvent.Invoke();
     }
 
@@ -48,7 +49,7 @@ public class Button : MonoBehaviour
 
     public void ShowAvarageHeight()
 {
-    Vector3[] provPos = { new Vector3(-3, 0, 1), new Vector3(-3.5f, 0, -1.5f), new Vector3(-.5f, 0, -.5f) };
+    Vector3[] provPos = { new Vector3(-0.3880634f, 0, -1.68333f), new Vector3(-0.7890625f, 0, -2.303329f), new Vector3(0.2609367f, 0, -2.529329f) };
     List<Pillar> drenthe = new();
     List<Pillar> groningen = new();
     List<Pillar> friesland = new();

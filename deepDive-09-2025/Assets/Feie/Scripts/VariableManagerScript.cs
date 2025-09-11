@@ -6,7 +6,7 @@ using UnityEngine;
 using Newtonsoft.Json;
 using System.Linq;
 
-public class VariableManager : MonoBehaviour
+public class VariableManagerScript : MonoBehaviour
 {
     public class VeriableData
     {
@@ -27,7 +27,14 @@ public class VariableManager : MonoBehaviour
     private static Root allData;
     private string fileDirectory;
     private PillarGenerator pillarGenerator;
-    public void Start()
+
+
+    public void Awake()
+    {
+        fileDirectory = Path.Combine(Application.dataPath, "Feie/Data", "altData.json"); //Directory
+    }
+
+    public void OnButtonClick()
     {
         pillarGenerator = GameObject.FindGameObjectWithTag("PillarManager").GetComponent<PillarGenerator>();
         string fileContent = "";
@@ -44,10 +51,5 @@ public class VariableManager : MonoBehaviour
             allData = JsonConvert.DeserializeObject<Root>(fileContent);
             pillarGenerator.PlacePilars(allData);
         }
-    }
-
-    public void Awake()
-    {
-        fileDirectory = Path.Combine(Application.dataPath, "Feie/Data", "altData.json"); //Directory
     }
 }

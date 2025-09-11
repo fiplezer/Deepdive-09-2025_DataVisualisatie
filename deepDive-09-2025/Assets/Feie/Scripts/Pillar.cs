@@ -80,7 +80,7 @@ public class Pillar : MonoBehaviour
     public void SetWeight(float newWeight)
     {
         weight = newWeight;
-        float nmbr = newWeight / 300;
+        float nmbr = newWeight / 500;
         Vector3 scale = transform.localScale;
         transform.localScale = new Vector3(scale.x + nmbr, scale.y, scale.z + nmbr);
     }
@@ -91,7 +91,7 @@ public class Pillar : MonoBehaviour
         height = newHeight;
         if (targetobjHeight == 0)
         {
-            targetobjHeight = newHeight / 2;
+            targetobjHeight = newHeight / 3;
         }
         isTransforming = true;
 
