@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuScene.unity
     guid: dd8dd6777e30d624a99d89cf543c1686
   - enabled: 1
-    path: Assets/Scenes/Vr main scene.unity
+    path: Assets/Scenes/jesse.unity
     guid: fab79f0a5a74aba479f6a5c32b7dc8b0
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 09f0b9d0e61e4e44f8a11dad4d44c986,
